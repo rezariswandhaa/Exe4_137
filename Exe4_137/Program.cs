@@ -8,6 +8,9 @@ namespace Exe4_137
 {
     class Node
     {
+        public int info;
+        public Node next;
         
     }
+
 }

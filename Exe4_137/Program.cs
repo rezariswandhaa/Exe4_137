@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Exe4_137
 {
-    internal class Program
+    class Node
     {
-        static void Main(string[] args)
-        {
-
-        }
+        
     }
 }

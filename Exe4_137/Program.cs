@@ -19,7 +19,12 @@ namespace Exe4_137
 
     class Stacks
     {
+        Node top;
 
+        public Stacks()
+        {
+            top = null;
+        }
     }
 
 

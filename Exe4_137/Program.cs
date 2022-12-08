@@ -10,7 +10,12 @@ namespace Exe4_137
     {
         public int info;
         public Node next;
-        
+        public Node(int mrr, Node n)
+        {
+            info = mrr;
+            next = n;
+        }
     }
+
 
 }

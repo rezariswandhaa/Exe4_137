@@ -17,5 +17,10 @@ namespace Exe4_137
         }
     }
 
+    class Stacks
+    {
+
+    }
+
 
 }
